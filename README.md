@@ -1,6 +1,8 @@
 # DAP_projekat
 
-link na collab: https://colab.research.google.com/drive/1LUOiJgkbH6Lrb5IKgwF8ZyMD81r2QKNE?usp=sharing
+U ovom projektu kreirana su dva ugrađena prikaza (word embeddings) riječi bosanskog jezika koristeći FastText i Word2Vec metode.
+
+link na izgrađene modele: https://drive.google.com/drive/folders/1vgf4yyFMXlxDKT5i3fmcApyibGYHgYHS
 
 # Legenda - kategorije:
 1 - balkan </br>
